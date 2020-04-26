@@ -4,7 +4,7 @@ description: [Software/Hardware for Tiny Embedded Systems]
 menu:
   items:
     - text: Home
-      url: Readme.md
+      url: README.md
     - text: Members
       url: Members.md
     - text: Publications
