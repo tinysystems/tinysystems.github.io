@@ -1,3 +1,9 @@
 theme: jekyll-theme-cayman
 title: [Tiny Systems Group]
 description: [Software/Hardware for Tiny Embedded Systems]
+menu:
+  items:
+    - text: About
+      url: About.md
+    - text: Members
+      url: Members.md
