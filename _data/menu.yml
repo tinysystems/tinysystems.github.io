@@ -1,8 +1,8 @@
 - text: Home
   url: index.html
 - text: Members
-  url: Members.md
+  url: Members.html
 - text: Publications
-  url: Publications.md
+  url: Publications.html
 - text: Projects
-  url: Projects.md
+  url: Projects.html
