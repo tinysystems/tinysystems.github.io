@@ -7,3 +7,7 @@ menu:
       url: About.md
     - text: Members
       url: Members.md
+    - text: Publications
+      url: Publications.md
+    - text: Projects
+      url: Projects.md
