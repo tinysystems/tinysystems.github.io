@@ -1,4 +1,4 @@
-## List of our Projects
+## List of our Open Source Software
 
 - [Taskify: An IDE to Develop and Debug Intermittent Software](Projects.html#Taskify)
 
