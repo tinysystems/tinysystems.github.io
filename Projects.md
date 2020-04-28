@@ -2,8 +2,7 @@
 
 [Taskify: An IDE to Develop and Debug Intermittent Software](Projects.html#Taskify)
 
-Project website: [Taskify](https://github.com/tinysystems/Taskify)
-
+---
 
 ### [Taskify: An IDE to Develop and Debug Intermittent Software](#Taskify)
 
