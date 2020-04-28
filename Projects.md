@@ -1,6 +1,6 @@
 ## List of our Projects
 
-[Taskify: An IDE to Develop and Debug Intermittent Software](Projects.html#Taskify)
+- [Taskify: An IDE to Develop and Debug Intermittent Software](Projects.html#Taskify)
 
 ---
 
