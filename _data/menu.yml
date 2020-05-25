@@ -2,7 +2,5 @@
   url: index.html
 - text: Members
   url: Members.html
-- text: Publications
-  url: Publications.html
-- text: Projects/Software
+- text: Hardware/Software
   url: Projects.html
