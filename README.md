@@ -14,11 +14,12 @@ Tiny Systems group does research on hardware and software for tiny embedded syst
 - [Çağlar Durmaz](https://www.researchgate.net/profile/Caglar_Durmaz) (together with [Ege-SERLab](http://akademik.ube.ege.edu.tr/serlab/))
 
 ## Master Students
-- [İlhan Gören](https://www.linkedin.com/in/mulayimmurat/)
+- [İlhan Gören](https://tr.linkedin.com/in/ilhangoren)
 
 ## Alumni
 
 - [Murat Mülayim](https://www.linkedin.com/in/mulayimmurat/)
+---
 
 ## List of our Open Source Software
 
