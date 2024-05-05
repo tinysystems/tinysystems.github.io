@@ -1,5 +1,5 @@
 
-Please check the websites of our open source projects listed below.
+Please check the websites of our open-source projects listed below.
 
 | **Githup Repository Link** | **Related Publication** |
 |----------|-----------|
