@@ -3,6 +3,9 @@ Please check the websites of our open-source projects listed below.
 
 | **Githup Repository Link** | **Related Publication** |
 |----------|-----------|
+|[https://github.com/tinysystems/FreeML](https://github.com/tinysystems/FreeML)|[FreeML: Memory-efficient Energy-adaptive Inference of Pre-Trained Models on Batteryless Embedded Systems](https://ewsn.org/file-repository/ewsn2024/ewsn24-final16.pdf), EWSN 2024|
+|[https://github.com/DIOL-UniTN/Fast-Inf-FFF](https://github.com/DIOL-UniTN/Fast-Inf-FFF)|[Fast-Inf: Ultra-Fast Embedded Intelligence on the Batteryless Edge
+](https://dl.acm.org/doi/abs/10.1145/3666025.3699335), SenSys 2024|
 |[https://github.com/tinysystems/ARTEMIS](https://github.com/tinysystems/ARTEMIS)|[Adaptable Runtime Monitoring for Intermittent Systems](https://dl.acm.org/doi/abs/10.1145/3627703.3650070), EuroSys 2024|
 |[https://github.com/tinysystems/SNNTaskSpecialization](https://github.com/tinysystems/SNNTaskSpecialization)|[Efficient Processing of Spiking Neural Networks via Task Specialization](https://ieeexplore.ieee.org/document/10471594), IEEE TETCI, 2024|
 | [https://github.com/tinysystems/easeIO](https://github.com/tinysystems/easeIO) | [Efficient and Safe I/O Operations for Intermittent Systems](https://dl.acm.org/doi/abs/10.1145/3552326.3587435), EuroSys 2023 |
